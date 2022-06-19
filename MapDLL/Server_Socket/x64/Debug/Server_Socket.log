@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Server_Socket.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\Server_Socket\Server_Socket.cpp(36,23): warning C4305: 'initializing': truncation from 'int' to 'short'
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\Server_Socket\Server_Socket.cpp(36,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\Server_Socket\Server_Socket.cpp(165,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\Server_Socket\Server_Socket.cpp(137,13): warning C4101: 'map_export': unreferenced local variable
+  Server_Socket.vcxproj -> C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\x64\Debug\Server_Socket.exe

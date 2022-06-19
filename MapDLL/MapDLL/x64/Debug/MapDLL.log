@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MapDLL.cpp
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\MapDLL\MapDLL.h(28,98): warning C4190: 'map' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Generating Code...
+     Creating library C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\x64\Debug\MapDLL.lib and object C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\x64\Debug\MapDLL.exp
+  MapDLL.vcxproj -> C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\x64\Debug\MapDLL.dll

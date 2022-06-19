@@ -1,0 +1,5 @@
+﻿  ClientApp.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\ClientApp\ClientApp.cpp(59,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\ClientApp\ClientApp.cpp(31,10): warning C4101: 'map_export': unreferenced local variable
+  ClientApp.vcxproj -> C:\Users\ndung\OneDrive\Desktop\CSE687\Phase-3\MapDLL\x64\Debug\ClientApp.exe
